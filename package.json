@@ -1,0 +1,17 @@
+{
+    "name": "json2xml",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "dev": "nodemon server.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "fs": "^0.0.1-security",
+        "nodemon": "^2.0.22",
+        "xmlbuilder2": "^3.0.2"
+    },
+    "type": "module"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "John Doe",
+    "age": 30,
+    "city": "New York",
+    "hobbies": [
+        "reading",
+        "hiking",
+        "cooking"
+    ],
+    "isMarried": false,
+    "education": {
+        "degree": "Bachelor's",
+        "major": "Computer Science",
+        "university": "Harvard"
+    }
+}
